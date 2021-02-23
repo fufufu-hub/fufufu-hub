@@ -10,4 +10,4 @@
   - yfu85@fordham.edu
   - https://www.linkedin.com/in/yiqifu/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have to code with hippop music
+- ⚡ Fun fact: cant code without hip-hop music
