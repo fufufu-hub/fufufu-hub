@@ -2,6 +2,7 @@
 
 - 🎓 Bachelor's in Mathematics from Colorado State University, May 2019
 - 🎓 Master's in Appied Statistics from Fordham Gabelli School of Business, Dec 2020
+- 🎓 Master's in Business Analytics from Fordham Gabelli School of Business, Feb 2022
 - 🔭 I’m currently working on text mining and prediction
 - 🌱 I’m currently learning Python, specifically in regards to data analytics.
 <img align="right" alt="GIF" src="https://github.com/fufufu-hub/fufufu-hub/blob/main/giphy.gif?raw=true" width="500" height="320" />
